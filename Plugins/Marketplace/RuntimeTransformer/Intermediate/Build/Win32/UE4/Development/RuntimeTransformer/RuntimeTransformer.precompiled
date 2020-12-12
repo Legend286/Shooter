@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.RuntimeTransformer.cpp.obj",
+		"Module.RuntimeTransformer.gen.cpp.obj"
+	]
+}
